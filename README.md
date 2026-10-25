@@ -22,8 +22,6 @@
 
 **Pau**, here — a Multiplatform Software Development (DSM) student who enjoys turning ideas into working apps for web and mobile.
 
-I've worked on real-client projects like a dental clinic management system, a clothing rental platform and a travel package recommender, plus a tourism app built with **Flutter**.
-
 Currently exploring **AI-assisted development** with tools like **Claude Code**, while sharpening my skills in **JavaScript**, **Flutter** and **UI design**.
 
 My goal is simple: write clean code, design with intention, and keep learning — calmly. ☕
